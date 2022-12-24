@@ -6,10 +6,9 @@
 
 
 
-@media screen and (max-width:650px) {
+@media screen and (min-width:650px) {
     .myCard {
         height: 700px;
-        /* border: 1px solid red; */
         padding-block: 10%;
         padding: 10% 10%;
         background-color: #8367e9;
