@@ -1,7 +1,8 @@
 function appreciation() {
     let question = prompt("what is your name");
 
-    console.log(UserName);
+    // console.log(question);
 
-    let 
+    document.getElementById("userName").innerHTML = question;
 }
+appreciation()
