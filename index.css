@@ -32,13 +32,12 @@
     }
 
     .text {
-        margin-top: 35px;
+        margin-top: 30px;
         line-height: 30px;
         padding: 6px;
         color: #fff;
         animation-duration: 3s;
         animation-name: slidein;
-        /* animation-iteration-count: 2; */
     }
 
     @keyframes slidein {
@@ -89,10 +88,8 @@
         margin-top: 15px;
         line-height: 30px;
         padding: 30px;
-        /* color: #fff; */
         animation-duration: 3s;
         animation-name: slidein;
-       /* font-size: larger; */
     }
 }
 
