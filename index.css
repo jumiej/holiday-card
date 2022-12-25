@@ -27,8 +27,17 @@
         height: 100%;
         object-fit: contain;
         border-top: 25px;
+        cursor: pointer;
         border-top-left-radius: 10px;
         border-top-right-radius: 10px;
+    }
+
+
+    #effect:hover {
+        background-image: url(https://www.bing.com/images/search?q=&view=detailv2&id=57392201E82834AB05652054CC0C7D66CCDB6555&ccid=48/U+wBb&iss=fav&FORM=SVIM01&idpview=singleimage&mediaurl=https%253a%252f%252f68.media.tumblr.com%252f51f3cf7f7091ad9440df738848c23024%252ftumblr_nzgxopHHXg1ro4v2no1_500.gif&expw=500&exph=334&thid=OIP.48_U-wBbD5OoROFvlhrowgHaE8
+        www.tumblr.com
+        );
+        
     }
 
     .text {
